@@ -1,0 +1,5 @@
+.env
+src/data_cache/
+src/__pycache__/
+src/pipeline.log
+*.db
